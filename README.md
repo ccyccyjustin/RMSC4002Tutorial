@@ -4,7 +4,7 @@ First, you may want to create a working directory like ```RMSC4002/``` to store 
 
 Then, please download the following:
 
-1. anaconda @ ```https://www.anaconda.com/download```
+1. Anaconda @ ```https://www.anaconda.com/download```
 2. Pycharm CE @ ```https://www.jetbrains.com/pycharm/download/```
 
 After that, click "launch" in the Notebook section inside Anaconda-Navigator.
