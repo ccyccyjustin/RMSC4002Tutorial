@@ -15,3 +15,4 @@ Select the default Kernel (usually Python conda env:base) for your Jupyter Noteb
 
 In the first cell, run ```!conda install git -y``` to download Git.
 
+Many materials here are adopted from ```https://github.com/kaiser1999/Financial-Data-Analytics``` and efforts from previous TAs.
